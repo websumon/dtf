@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-04 23:16" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-28 21:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>LearnDash (Cooking)</title>
 	<link>https://thepixelcurve.com/wp/edubin/ld-green</link>
 	<description>Edubin Education Theme</description>
-	<pubDate>Tue, 04 Jul 2023 23:16:31 +0000</pubDate>
+	<pubDate>Fri, 28 Jul 2023 21:51:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/wp/edubin/</wp:base_site_url>
@@ -272,13 +272,6 @@
 		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>61</wp:term_id>
-		<wp:term_taxonomy><![CDATA[ld_course_language]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[french]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[French]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>37</wp:term_id>
 		<wp:term_taxonomy><![CDATA[course_language]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[french]]></wp:term_slug>
@@ -286,15 +279,22 @@
 		<wp:term_name><![CDATA[French]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>62</wp:term_id>
+		<wp:term_id>61</wp:term_id>
 		<wp:term_taxonomy><![CDATA[ld_course_language]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[french]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[French]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>38</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_language]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[german]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[German]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>38</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_language]]></wp:term_taxonomy>
+		<wp:term_id>62</wp:term_id>
+		<wp:term_taxonomy><![CDATA[ld_course_language]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[german]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[German]]></wp:term_name>
@@ -502,15 +502,15 @@
 		<wp:term_name><![CDATA[Small]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>73</wp:term_id>
-		<wp:term_taxonomy><![CDATA[ld_course_language]]></wp:term_taxonomy>
+		<wp:term_id>49</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_language]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[spanish]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Spanish]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>49</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_language]]></wp:term_taxonomy>
+		<wp:term_id>73</wp:term_id>
+		<wp:term_taxonomy><![CDATA[ld_course_language]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[spanish]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Spanish]]></wp:term_name>
@@ -7115,10 +7115,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8914</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 21:37:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[8914]]></wp:post_name>
@@ -7185,6 +7185,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Advanced Course Filter]]></title>
@@ -7196,10 +7200,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8917</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 21:37:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[8917]]></wp:post_name>
@@ -7266,6 +7270,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Home Demos]]></title>
@@ -7277,10 +7285,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9004</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-home-demos]]></wp:post_name>
@@ -7343,6 +7351,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7354,10 +7366,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9005</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9005]]></wp:post_name>
@@ -7420,6 +7432,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7431,10 +7447,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9006</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9006]]></wp:post_name>
@@ -7497,6 +7513,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7508,10 +7528,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9007</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9007]]></wp:post_name>
@@ -7574,6 +7594,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7585,10 +7609,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9008</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9008]]></wp:post_name>
@@ -7651,6 +7675,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7662,10 +7690,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9009</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9009]]></wp:post_name>
@@ -7728,6 +7756,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7739,10 +7771,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9010</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9010]]></wp:post_name>
@@ -7805,6 +7837,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7816,10 +7852,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9011</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9011]]></wp:post_name>
@@ -7882,6 +7918,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7893,10 +7933,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9013</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:35:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9013]]></wp:post_name>
@@ -7959,6 +7999,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -7970,10 +8014,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9018</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9018]]></wp:post_name>
@@ -8036,6 +8080,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8047,10 +8095,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9019</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9019]]></wp:post_name>
@@ -8113,6 +8161,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Single]]></title>
@@ -8124,10 +8176,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9020</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-single]]></wp:post_name>
@@ -8190,6 +8242,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Features]]></title>
@@ -8201,10 +8257,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9021</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[features]]></wp:post_name>
@@ -8267,6 +8323,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8278,10 +8338,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9022</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9022]]></wp:post_name>
@@ -8344,6 +8404,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Book Shop]]></title>
@@ -8355,10 +8419,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9023</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book-shop]]></wp:post_name>
@@ -8421,6 +8485,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Shop Single]]></title>
@@ -8432,10 +8500,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9024</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop-single]]></wp:post_name>
@@ -8498,6 +8566,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Events]]></title>
@@ -8509,10 +8581,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9025</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9025]]></wp:post_name>
@@ -8575,6 +8647,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8586,10 +8662,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9026</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9026]]></wp:post_name>
@@ -8652,6 +8728,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Event]]></title>
@@ -8663,10 +8743,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9027</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:46:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-event-1]]></wp:post_name>
@@ -8729,6 +8809,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
@@ -8740,10 +8824,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9029</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pages]]></wp:post_name>
@@ -8806,6 +8890,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8817,10 +8905,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9030</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9030]]></wp:post_name>
@@ -8883,6 +8971,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8894,10 +8986,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9031</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9031]]></wp:post_name>
@@ -8960,6 +9052,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -8971,10 +9067,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9032</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9032]]></wp:post_name>
@@ -9037,6 +9133,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9048,10 +9148,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9033</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9033]]></wp:post_name>
@@ -9114,6 +9214,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9125,10 +9229,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9036</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9036]]></wp:post_name>
@@ -9191,6 +9295,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pricing Table]]></title>
@@ -9202,10 +9310,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9037</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pricing-table]]></wp:post_name>
@@ -9268,6 +9376,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9279,10 +9391,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9038</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9038]]></wp:post_name>
@@ -9345,6 +9457,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9356,10 +9472,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9039</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-17 22:51:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9039]]></wp:post_name>
@@ -9422,6 +9538,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog List]]></title>
@@ -9433,10 +9553,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9051</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-18 02:06:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-list]]></wp:post_name>
@@ -9495,6 +9615,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9506,10 +9630,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9109</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:50:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9109]]></wp:post_name>
@@ -9564,6 +9688,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -9575,10 +9703,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9110</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:50:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9110]]></wp:post_name>
@@ -9632,6 +9760,10 @@ This Course is the most valuable business resource we have EVER purchased. We ha
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10873,10 +11005,10 @@ My Skill
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9111</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:50:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9111]]></wp:post_name>
@@ -10931,6 +11063,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -10942,10 +11078,10 @@ My Skill
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9112</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:50:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9112]]></wp:post_name>
@@ -11000,6 +11136,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -11011,10 +11151,10 @@ My Skill
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9113</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:54:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9113]]></wp:post_name>
@@ -11069,6 +11209,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -11080,10 +11224,10 @@ My Skill
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9114</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 19:54:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9114]]></wp:post_name>
@@ -11138,249 +11282,9 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Layout 01]]></title>
-		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-01/</link>
-		<pubDate>Mon, 07 Nov 2022 08:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpadmin]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9261</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9261</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layout-01]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6699]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sfwd-courses]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Layout 02]]></title>
-		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-02/</link>
-		<pubDate>Mon, 07 Nov 2022 08:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpadmin]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9262</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9262</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layout-02]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6645]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sfwd-courses]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Layout 03]]></title>
-		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-03/</link>
-		<pubDate>Mon, 07 Nov 2022 08:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpadmin]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9263</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9263</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layout-03]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[75]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sfwd-courses]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Layout 04]]></title>
-		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-04/</link>
-		<pubDate>Mon, 07 Nov 2022 08:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpadmin]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9264</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9264</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layout-04]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sfwd-courses]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11393,10 +11297,10 @@ My Skill
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9265</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-layout]]></wp:post_name>
@@ -11443,6 +11347,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Paid Type Course]]></title>
@@ -11454,10 +11362,10 @@ My Skill
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9266</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[paid-type-course-2]]></wp:post_name>
@@ -11504,6 +11412,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Free Type Course]]></title>
@@ -11515,10 +11427,10 @@ My Skill
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9267</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-07 08:18:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[free-type-course-2]]></wp:post_name>
@@ -11565,6 +11477,10 @@ My Skill
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-11-07]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -11576,10 +11492,10 @@ My Skill
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9787</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-02 01:56:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-12-02 01:56:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-02 01:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 01:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9787]]></wp:post_name>
@@ -11621,6 +11537,238 @@ My Skill
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-02]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Layout 01]]></title>
+		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-01-2/</link>
+		<pubDate>Fri, 28 Jul 2023 15:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9806</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9806</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layout-01-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9806]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://thepixelcurve.com/wp/edubin/ld-green/courses/complete-digital-marketing-course/?ld_single_page_layout=1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Layout 02]]></title>
+		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-02-2/</link>
+		<pubDate>Fri, 28 Jul 2023 15:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9807</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9807</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layout-02-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9807]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://thepixelcurve.com/wp/edubin/ld-green/courses/complete-digital-marketing-course/?ld_single_page_layout=2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Layout 03]]></title>
+		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-03-2/</link>
+		<pubDate>Fri, 28 Jul 2023 15:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9808</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9808</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layout-03-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9808]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://thepixelcurve.com/wp/edubin/ld-green/courses/complete-digital-marketing-course/?ld_single_page_layout=3]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Layout 04]]></title>
+		<link>https://thepixelcurve.com/wp/edubin/ld-green/layout-04-2/</link>
+		<pubDate>Fri, 28 Jul 2023 15:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpadmin]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/edubin/ld-green/?p=9809</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9809</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-28 15:41:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-28 15:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-28 15:41:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layout-04-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9265]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9809]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://thepixelcurve.com/wp/edubin/ld-green/courses/complete-digital-marketing-course/?ld_single_page_layout=4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14635,7 +14783,7 @@ Hanna Ben
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[826]]></wp:meta_value>
+		<wp:meta_value><![CDATA[830]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -14829,7 +14977,7 @@ Hanna Ben
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[427]]></wp:meta_value>
+		<wp:meta_value><![CDATA[431]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -18707,7 +18855,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[374]]></wp:meta_value>
+		<wp:meta_value><![CDATA[384]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
@@ -18921,7 +19069,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[441]]></wp:meta_value>
+		<wp:meta_value><![CDATA[448]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
@@ -19195,7 +19343,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[892]]></wp:meta_value>
+		<wp:meta_value><![CDATA[897]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
@@ -19503,7 +19651,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1948010]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1948029]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
@@ -20267,7 +20415,7 @@ Please <strong><a href="https://www.learndash.com/contact">contact us</a></stron
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2467]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2493]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_course_steps_count]]></wp:meta_key>
@@ -20425,7 +20573,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5107]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5157]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -20871,7 +21019,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[830]]></wp:meta_value>
+		<wp:meta_value><![CDATA[833]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -21205,7 +21353,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[970]]></wp:meta_value>
+		<wp:meta_value><![CDATA[976]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -21407,7 +21555,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[812]]></wp:meta_value>
+		<wp:meta_value><![CDATA[817]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -21593,7 +21741,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[362]]></wp:meta_value>
+		<wp:meta_value><![CDATA[366]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -21990,7 +22138,7 @@ Please <strong><a href="https://www.learndash.com/contact">contact us</a></stron
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3753]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3815]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_course_steps_count]]></wp:meta_key>
@@ -22132,7 +22280,7 @@ Please <strong><a href="https://www.learndash.com/contact">contact us</a></stron
 		<category domain="ld_course_category" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2525]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2597]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -22433,7 +22581,7 @@ Please <strong><a href="https://www.learndash.com/contact">contact us</a></stron
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2548]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2570]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_course_steps_count]]></wp:meta_key>
@@ -22659,7 +22807,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3855]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3933]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_course_steps_count]]></wp:meta_key>
@@ -22866,7 +23014,7 @@ Key features demonstrated in this course include:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1867]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1881]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_course_steps_count]]></wp:meta_key>
@@ -23676,7 +23824,7 @@ It has survived not only five centuries.imply dummy text of the printing and typ
 		<category domain="ld_course_tag" nicename="university"><![CDATA[University]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2267]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2341]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_ld_certificate]]></wp:meta_key>
@@ -23839,7 +23987,7 @@ It has survived not only five centuries.imply dummy text of the printing and typ
 		<category domain="ld_course_category" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_views_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2619]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2753]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
