@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.2" created="2023-11-05 00:22" -->
+	<!-- generator="WordPress/6.3.2" created="2023-11-05 00:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Corpix</title>
 	<link>https://thepixelcurve.com/wp/corpix</link>
 	<description></description>
-	<pubDate>Sun, 05 Nov 2023 00:22:43 +0000</pubDate>
+	<pubDate>Sun, 05 Nov 2023 00:59:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/wp/corpix</wp:base_site_url>
@@ -9524,7 +9524,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v1]]></title>
+		<title><![CDATA[Home-V1]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/</link>
 		<pubDate>Tue, 04 Apr 2023 08:30:48 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -9814,8 +9814,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-04 08:30:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-04 08:30:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-26 12:12:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-26 12:12:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:58:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:58:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v1]]></wp:post_name>
@@ -10099,7 +10099,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
@@ -10123,7 +10123,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v2]]></title>
+		<title><![CDATA[Home-V2]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/home-v2/</link>
 		<pubDate>Sat, 08 Apr 2023 07:16:01 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -10280,8 +10280,8 @@
 		<wp:post_id>429</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-08 07:16:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-08 07:16:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-26 12:10:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-26 12:10:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:58:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:58:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v2]]></wp:post_name>
@@ -10293,7 +10293,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
@@ -10589,7 +10589,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v3]]></title>
+		<title><![CDATA[Home-V3]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/home-v3/</link>
 		<pubDate>Mon, 10 Apr 2023 06:06:46 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -10837,8 +10837,8 @@ creating beautiful</h2>
 		<wp:post_id>665</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-10 06:06:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 06:06:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-25 11:54:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-25 11:54:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:59:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:59:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v3]]></wp:post_name>
@@ -10850,7 +10850,7 @@ creating beautiful</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
@@ -11146,7 +11146,7 @@ creating beautiful</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v4]]></title>
+		<title><![CDATA[Home-V4]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/home-v4/</link>
 		<pubDate>Tue, 11 Apr 2023 08:06:12 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -11296,8 +11296,8 @@ app design				</a>			</h3>
 		<wp:post_id>855</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-11 08:06:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-11 08:06:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-26 12:13:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-26 12:13:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:59:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:59:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v4]]></wp:post_name>
@@ -11309,7 +11309,7 @@ app design				</a>			</h3>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
@@ -11617,7 +11617,7 @@ app design				</a>			</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v5]]></title>
+		<title><![CDATA[Home-V5]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/home-v5/</link>
 		<pubDate>Tue, 11 Apr 2023 18:02:49 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -11808,8 +11808,8 @@ ANALYSIS </h3>
 		<wp:post_id>1018</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-11 18:02:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-11 18:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-26 12:13:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-26 12:13:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:59:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:59:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v5]]></wp:post_name>
@@ -11821,7 +11821,7 @@ ANALYSIS </h3>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
@@ -12133,7 +12133,7 @@ ANALYSIS </h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home-v6]]></title>
+		<title><![CDATA[Home-V6]]></title>
 		<link>https://thepixelcurve.com/wp/corpix/home-v6/</link>
 		<pubDate>Wed, 12 Apr 2023 07:08:40 +0000</pubDate>
 		<dc:creator><![CDATA[Miller]]></dc:creator>
@@ -12379,8 +12379,8 @@ creating beautiful</h2>
 		<wp:post_id>1040</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 07:08:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 07:08:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-26 12:15:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-26 12:15:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-05 00:59:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-05 00:59:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v6]]></wp:post_name>
@@ -12392,7 +12392,7 @@ creating beautiful</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mb_page_sidebar_layout]]></wp:meta_key>
