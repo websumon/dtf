@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-21 13:56" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-21 16:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Techwix</title>
 	<link>https://thepixelcurve.com/wp/techwix</link>
 	<description>Technology WordPress Theme</description>
-	<pubDate>Wed, 21 Aug 2024 13:56:31 +0000</pubDate>
+	<pubDate>Wed, 21 Aug 2024 16:07:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/wp/techwix</wp:base_site_url>
@@ -14498,8 +14498,8 @@ I’ve since focused my time on bringing my teaching experience to an online env
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="ai"><![CDATA[AI]]></category>
 		<category domain="post_tag" nicename="robot"><![CDATA[Robot]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
 		<category domain="post_tag" nicename="technology"><![CDATA[technology]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[15450]]></wp:meta_value>
