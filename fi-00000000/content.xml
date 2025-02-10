@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-02-10 10:44" -->
+	<!-- generator="WordPress/6.7.1" created="2025-02-10 10:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fitner</title>
 	<link>https://thepixelcurve.com/wp/fitner</link>
 	<description>Gym Fitness WordPress Theme</description>
-	<pubDate>Mon, 10 Feb 2025 10:44:30 +0000</pubDate>
+	<pubDate>Mon, 10 Feb 2025 10:45:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/wp/fitner</wp:base_site_url>
@@ -15005,8 +15005,8 @@ There is no one type or way in our diverse community. Come as you are!          
 		<category domain="post_tag" nicename="exercise"><![CDATA[Exercise]]></category>
 		<category domain="post_tag" nicename="fitness"><![CDATA[Fitness]]></category>
 		<category domain="post_tag" nicename="gym"><![CDATA[Gym]]></category>
-		<category domain="post_tag" nicename="nutrition"><![CDATA[Nutrition]]></category>
 		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
+		<category domain="post_tag" nicename="nutrition"><![CDATA[Nutrition]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2073]]></wp:meta_value>
