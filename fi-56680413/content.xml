@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-15 09:34" -->
+	<!-- generator="WordPress/6.8.1" created="2025-05-15 09:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fitner</title>
 	<link>https://thepixelcurve.com/wp/fitner</link>
 	<description>Gym Fitness WordPress Theme</description>
-	<pubDate>Thu, 15 May 2025 09:34:20 +0000</pubDate>
+	<pubDate>Thu, 15 May 2025 09:42:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/wp/fitner</wp:base_site_url>
@@ -3934,47 +3934,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[THTR533]]></title>
-		<link>https://thepixelcurve.com/wp/fitner/thtr533/</link>
-		<pubDate>Wed, 22 Jan 2025 10:18:51 +0000</pubDate>
-		<dc:creator><![CDATA[fitner]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/fitner/wp-content/uploads/2025/01/THTR533.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2689</wp:post_id>
-		<wp:post_date><![CDATA[2025-01-22 10:18:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-01-22 10:18:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-01-22 10:18:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-01-22 10:18:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[thtr533]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://thepixelcurve.com/wp/fitner/wp-content/uploads/2025/01/THTR533.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/01/THTR533.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1450;s:6:"height";i:480;s:4:"file";s:19:"2025/01/THTR533.jpg";s:8:"filesize";i:120594;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:18:"THTR533-300x99.jpg";s:5:"width";i:300;s:6:"height";i:99;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7689;}s:5:"large";a:5:{s:4:"file";s:20:"THTR533-1024x339.jpg";s:5:"width";i:1024;s:6:"height";i:339;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44500;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"THTR533-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5729;}s:12:"medium_large";a:5:{s:4:"file";s:19:"THTR533-768x254.jpg";s:5:"width";i:768;s:6:"height";i:254;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29218;}s:17:"fitner-post-thumb";a:5:{s:4:"file";s:19:"THTR533-590x430.jpg";s:5:"width";i:590;s:6:"height";i:430;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35024;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:19:"THTR533-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15519;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:19:"THTR533-600x199.jpg";s:5:"width";i:600;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20564;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:19:"THTR533-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3491;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_fitner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1737615057]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fitner]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[logo-dark]]></title>
 		<link>https://thepixelcurve.com/wp/fitner/logo-dark/</link>
 		<pubDate>Tue, 11 Feb 2025 00:46:21 +0000</pubDate>
@@ -4536,6 +4495,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[BL98741]]></title>
+		<link>https://thepixelcurve.com/wp/fitner/optimize-your-workouts-with-nutrition-tips/bl98741/</link>
+		<pubDate>Wed, 23 Apr 2025 15:09:15 +0000</pubDate>
+		<dc:creator><![CDATA[fitner]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/fitner/wp-content/uploads/2024/10/BL98741.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3890</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-23 15:09:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-23 15:09:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-23 15:09:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-23 15:09:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bl98741]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1098</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://thepixelcurve.com/wp/fitner/wp-content/uploads/2024/10/BL98741.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/10/BL98741.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:19:"2024/10/BL98741.jpg";s:8:"filesize";i:165802;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:19:"BL98741-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18293;}s:5:"large";a:5:{s:4:"file";s:20:"BL98741-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119447;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"BL98741-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8829;}s:12:"medium_large";a:5:{s:4:"file";s:19:"BL98741-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78689;}s:17:"fitner-post-thumb";a:5:{s:4:"file";s:19:"BL98741-590x430.jpg";s:5:"width";i:590;s:6:"height";i:430;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60594;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:19:"BL98741-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25873;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:19:"BL98741-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54361;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:19:"BL98741-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4976;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Default Kit]]></title>
 		<link>https://thepixelcurve.com/wp/fitner/?elementor_library=default-kit</link>
 		<pubDate>Mon, 30 Sep 2024 00:10:57 +0000</pubDate>
@@ -4776,39 +4768,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"timeout":1747366313,"value":{"content":"<div class=\"elementor-element elementor-element-fb43ff6 e-flex e-con-boxed e-con e-parent\" data-id=\"fb43ff6\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-a900513 e-con-full e-flex e-con e-child\" data-id=\"a900513\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t<div class=\"elementor-element elementor-element-a2ad41e e-con-full e-flex e-con e-child\" data-id=\"a2ad41e\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImE0ODY5NTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInVzZV9jdXN0b21fbG9nbyI6InllcyIsImN1c3RvbV9sb2dvIjp7InVybCI6Imh0dHBzOlwvXC90aGVwaXhlbGN1cnZlLmNvbVwvd3BcL2ZpdG5lclwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2xvZ28ucG5nIiwiaWQiOjM0NTMsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmaXRuZXItc2l0ZS1sb2dvIn0=\"][elementor-element data=\"eyJpZCI6IjljODcyMzMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImVkaXRvciI6IjxwPk91ciBjb21taXRtZW50IHRvIHlvdSBpcyB0byBwcm92aWRlIGhvbmVzdCwgZnJpZW5kbHksIGFuZCBvbi10aW1lIHNlcnZpY2UuIFZpc2l0IGEgbG9jYWxseSBvd25lZCBhbmQgb3BlcmF0ZWQgYnVzaW5lc3MgdGhhdCBoYXMgYmVlbiBzZXJ2aW5nPFwvcD4iLCJ0eXBvZ3JhcGh5X3R5cG9ncmFwaHkiOiJjdXN0b20iLCJ0ZXh0X2NvbG9yIjoiI0M0QzVDNyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJ0ZXh0LWVkaXRvciJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-d1bfa9d e-con-full e-flex e-con e-child\" data-id=\"d1bfa9d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImEwNGFiZGQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInN1YnRpdGxlIjoiIiwiZGJsX3RpdGxlIjoiSW5mb3JtYXRpb24iLCJkYmxfdGl0bGUyIjoiIiwic3VidGl0bGVfYWxpZ25lbW50IjoibGVmdCIsInRpdGxlX2FsaWduZW1udCI6ImxlZnQiLCJ0aXRsZV9hbGxfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInRpdGxlX2FsbF9mb250X3NpemUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTgsInNpemVzIjpbXX0sInRpdGxlX2FsbF90ZXh0X3RyYW5zZm9ybSI6InVwcGVyY2FzZSIsInRpdGxlX2FsbF9mb250X3N0eWxlIjoiaXRhbGljIiwidGl0bGVfYWxsX2xpbmVfaGVpZ2h0Ijp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJoZWFkaW5nX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwidGl0bGVfMXN0X2NvbG9yIjoiI0ZGRkZGRiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjdXN0b20tdGl0bGUtYWRkb25zIn0=\"][elementor-element data=\"eyJpZCI6ImE3ZjZkZmEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsIm1lbnVfdGl0bGUiOiIiLCJtZW51IjoiRm9vdGVyIE1lbnUgMDEiLCJlbmFibGVfdHdvX2NsbSI6IiIsImFsaWdubWVudHRfZmxleCI6ImZsZXgtc3RhcnQiLCJpdGVtc190eXBvZ3JhcGh5IjoiY3VzdG9tIiwiaXRlbXNfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE1LCJzaXplcyI6W119LCJpdGVtc19mb250X3dlaWdodCI6IjQwMCIsIml0ZW1zX3RleHRfdHJhbnNmb3JtIjoidXBwZXJjYXNlIiwiaXRlbXNfbGluZV9oZWlnaHQiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTUsInNpemVzIjpbXX0sIm1lbnVfdGV4dF9ob3ZlciI6IiNGMzBBNDYifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZml0bmVyLWZvb3Rlci1tZW51In0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-69ccb8d e-con-full e-flex e-con e-child\" data-id=\"69ccb8d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjlmZmNhMGEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInN1YnRpdGxlIjoiIiwiZGJsX3RpdGxlIjoiVXNlZnVsIExpbmtzIiwiZGJsX3RpdGxlMiI6IiIsInN1YnRpdGxlX2FsaWduZW1udCI6ImxlZnQiLCJ0aXRsZV9hbGlnbmVtbnQiOiJsZWZ0IiwidGl0bGVfYWxsX3R5cG9ncmFwaHkiOiJjdXN0b20iLCJ0aXRsZV9hbGxfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJ0aXRsZV9hbGxfdGV4dF90cmFuc2Zvcm0iOiJ1cHBlcmNhc2UiLCJ0aXRsZV9hbGxfZm9udF9zdHlsZSI6Iml0YWxpYyIsInRpdGxlX2FsbF9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjoxOCwic2l6ZXMiOltdfSwiaGVhZGluZ19tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sInRpdGxlXzFzdF9jb2xvciI6IiNGRkZGRkYifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY3VzdG9tLXRpdGxlLWFkZG9ucyJ9\"][elementor-element data=\"eyJpZCI6IjhjZmQ1ZWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsIm1lbnVfdGl0bGUiOiIiLCJtZW51IjoiRm9vdGVyIE1lbnUgMDIiLCJlbmFibGVfdHdvX2NsbSI6IiIsImFsaWdubWVudHRfZmxleCI6ImZsZXgtc3RhcnQiLCJpdGVtc190eXBvZ3JhcGh5IjoiY3VzdG9tIiwiaXRlbXNfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE1LCJzaXplcyI6W119LCJpdGVtc19mb250X3dlaWdodCI6IjQwMCIsIml0ZW1zX3RleHRfdHJhbnNmb3JtIjoidXBwZXJjYXNlIiwiaXRlbXNfbGluZV9oZWlnaHQiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTUsInNpemVzIjpbXX0sIm1lbnVfdGV4dF9ob3ZlciI6IiNGMzBBNDYifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZml0bmVyLWZvb3Rlci1tZW51In0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-0c537c3 e-con-full e-flex e-con e-child\" data-id=\"0c537c3\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImQwYjE5Y2EiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInN1YnRpdGxlIjoiIiwiZGJsX3RpdGxlIjoiQ29udGFjdCBVcyIsImRibF90aXRsZTIiOiIiLCJzdWJ0aXRsZV9hbGlnbmVtbnQiOiJsZWZ0IiwidGl0bGVfYWxpZ25lbW50IjoibGVmdCIsInRpdGxlX2FsbF90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidGl0bGVfYWxsX2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxOCwic2l6ZXMiOltdfSwidGl0bGVfYWxsX3RleHRfdHJhbnNmb3JtIjoidXBwZXJjYXNlIiwidGl0bGVfYWxsX2ZvbnRfc3R5bGUiOiJpdGFsaWMiLCJ0aXRsZV9hbGxfbGluZV9oZWlnaHQiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTgsInNpemVzIjpbXX0sImhlYWRpbmdfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJ0aXRsZV8xc3RfY29sb3IiOiIjRkZGRkZGIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImN1c3RvbS10aXRsZS1hZGRvbnMifQ==\"]\t\t<div class=\"elementor-element elementor-element-ff0c7e4 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"ff0c7e4\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fitner flaticon-location\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\"> 143 castle road 517 district, kiyev port south, Canada<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fitner flaticon-phone-call\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">+00 12 123 4567<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fitner flaticon-message\"><\/i>\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\"> Info@yourmail.com<\/span>\n\t\t\t\t\t\t\t\t\t<\/li>\n\t\t\t\t\t\t<\/ul>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c25975d e-con-full e-flex e-con e-child\" data-id=\"c25975d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjAyNzUwYTciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3J0Y29kZSI6IkNvcHlyaWdodCBbZml0bmVyX2NvcmVfcnVubmluZ195ZWFyXSAgUGl4ZWxjdXJ2ZS4gQWxsIFJpZ2h0cyBSZXNlcnZlZCIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMTAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJhbGlnbm1lbnQiOiJjZW50ZXIiLCJjb2xvciI6IiNDNEM1QzciLCJob3Zlcl9jb2xvciI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmaXRuZXItZm9vdGVyLWNvcHlyaWdodCJ9\"]\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":["widget-icon-list"]}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[BL98741]]></title>
-		<link>https://thepixelcurve.com/wp/fitner/optimize-your-workouts-with-nutrition-tips/bl98741/</link>
-		<pubDate>Wed, 23 Apr 2025 15:09:15 +0000</pubDate>
-		<dc:creator><![CDATA[fitner]]></dc:creator>
-		<guid isPermaLink="false">https://thepixelcurve.com/wp/fitner/wp-content/uploads/2024/10/BL98741.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3890</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-23 15:09:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-23 15:09:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-23 15:09:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-23 15:09:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bl98741]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1098</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://thepixelcurve.com/wp/fitner/wp-content/uploads/2024/10/BL98741.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/10/BL98741.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:19:"2024/10/BL98741.jpg";s:8:"filesize";i:165802;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:19:"BL98741-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18293;}s:5:"large";a:5:{s:4:"file";s:20:"BL98741-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119447;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"BL98741-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8829;}s:12:"medium_large";a:5:{s:4:"file";s:19:"BL98741-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78689;}s:17:"fitner-post-thumb";a:5:{s:4:"file";s:19:"BL98741-590x430.jpg";s:5:"width";i:590;s:6:"height";i:430;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60594;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:19:"BL98741-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25873;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:19:"BL98741-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54361;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:19:"BL98741-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4976;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5420,6 +5379,51 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:377;s:6:"height";i:247;s:4:"file";s:18:"2025/05/CHIP94.jpg";s:8:"filesize";i:43136;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"CHIP94-300x197.jpg";s:5:"width";i:300;s:6:"height";i:197;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13889;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"CHIP94-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6677;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:18:"CHIP94-300x247.jpg";s:5:"width";i:300;s:6:"height";i:247;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17070;s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:18:"CHIP94-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3949;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-cropped-THTR533.jpg]]></title>
+		<link>https://thepixelcurve.com/wp/fitner/cropped-cropped-thtr533-jpg/</link>
+		<pubDate>Thu, 15 May 2025 09:39:15 +0000</pubDate>
+		<dc:creator><![CDATA[fitner]]></dc:creator>
+		<guid isPermaLink="false">https://thepixelcurve.com/wp/fitner/wp-content/uploads/2025/01/cropped-cropped-THTR533.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[header image]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4201</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-15 09:39:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-15 09:39:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-15 09:40:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-15 09:40:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-cropped-thtr533-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://thepixelcurve.com/wp/fitner/wp-content/uploads/2025/01/cropped-cropped-THTR533.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/01/cropped-cropped-THTR533.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1450;s:6:"height";i:333;s:4:"file";s:35:"2025/01/cropped-cropped-THTR533.jpg";s:8:"filesize";i:47961;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:34:"cropped-cropped-THTR533-300x69.jpg";s:5:"width";i:300;s:6:"height";i:69;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5004;}s:5:"large";a:5:{s:4:"file";s:36:"cropped-cropped-THTR533-1024x235.jpg";s:5:"width";i:1024;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27338;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"cropped-cropped-THTR533-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4527;}s:12:"medium_large";a:5:{s:4:"file";s:35:"cropped-cropped-THTR533-768x176.jpg";s:5:"width";i:768;s:6:"height";i:176;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17752;}s:17:"fitner-post-thumb";a:5:{s:4:"file";s:35:"cropped-cropped-THTR533-590x333.jpg";s:5:"width";i:590;s:6:"height";i:333;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26540;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:35:"cropped-cropped-THTR533-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11889;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:35:"cropped-cropped-THTR533-600x138.jpg";s:5:"width";i:600;s:6:"height";i:138;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12813;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:35:"cropped-cropped-THTR533-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2774;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:4199;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_fitner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1747302008]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fitner]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18551,8 +18555,8 @@ you’ll love it here.
 		<category domain="post_tag" nicename="exercise"><![CDATA[Exercise]]></category>
 		<category domain="post_tag" nicename="fitness"><![CDATA[Fitness]]></category>
 		<category domain="post_tag" nicename="gym"><![CDATA[Gym]]></category>
-		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
 		<category domain="post_tag" nicename="nutrition"><![CDATA[Nutrition]]></category>
+		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
