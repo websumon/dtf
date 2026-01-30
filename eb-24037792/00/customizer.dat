@@ -1,0 +1,37 @@
+a:4:{s:8:"template";s:6:"edubin";s:4:"mods";a:30:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:2;}s:18:"custom_css_post_id";i:1550;s:21:"edubin_body_text_font";a:1:{s:11:"font-family";s:5:"Heebo";}s:19:"edubin_heading_font";a:1:{s:11:"font-family";s:5:"Heebo";}s:19:"edubin_social_links";a:1:{i:0;a:4:{s:17:"header_icon_icons";s:17:"flaticon-facebook";s:18:"header_icons_color";s:0:"";s:17:"header_icon_title";s:8:"Facebook";s:16:"header_icon_link";s:20:"https://facebook.com";}}s:8:"sidebars";a:1:{i:0;a:1:{s:19:"edubin_sidebar_name";s:0:"";}}s:11:"header_type";s:20:"theme-default-header";s:11:"custom_logo";i:1128;s:9:"logo_size";s:3:"180";s:15:"header_top_show";b:0;s:18:"header_button_show";b:1;s:18:"dark_header_enable";b:0;s:17:"header_white_logo";s:73:"https://thepixelcurve.com/edubin/wp-content/uploads/2024/04/LOGO-N-01.png";s:18:"header_button_text";s:12:"Purchase Now";s:17:"header_button_url";s:74:"https://themeforest.net/item/edubin-education-lms-wordpress-theme/24037792";s:20:"header_category_show";b:0;s:21:"top_bottom_space_show";b:0;s:17:"top_search_enable";b:0;s:15:"top_cart_enable";b:0;s:18:"edubin_footer_type";s:19:"edubin_theme_footer";s:27:"edubin_get_elementor_footer";s:20:"theme-default-footer";s:14:"copyright_show";b:0;s:19:"show_copyright_menu";b:0;s:14:"preloader_show";b:0;s:20:"sticky_header_enable";b:0;s:27:"header_button_open_same_tab";b:0;s:12:"profile_show";b:0;s:26:"top_massage_animation_show";b:0;s:14:"login_reg_show";b:0;}s:7:"options";a:2:{s:9:"site_icon";s:4:"1207";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:877:"a.main-header-btn.edubin-btn {
+    background: #4acc8a;
+		border-color: #4acc8a;
+		color:#fff;
+}
+
+@media (min-width: 991.98px) and (max-width: 1599.98px) {
+	.edubin-col-12.edubin-col-md-6.edubin-col-lg-3.element-item {
+			-webkit-box-flex: 0;
+			-ms-flex: 0 0 33.33%;
+			flex: 0 0 33.33%;
+			max-width: 33.33%;
+	}
+}
+
+.elementor-38 .elementor-element.elementor-element-2d2061e .all-btn-wrap {
+    text-align: center;
+}
+
+.elementor-38 .elementor-element.elementor-element-2d2061e .all-btn-wrap .btn-group-inner a.filter-btn {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.all-btn-wrap .btn-group-inner a.filter-btn.active {
+    background: #f46263 !important;
+    color: #fff !important;
+}
+.all-btn-wrap .btn-group-inner .filter-btn {
+    padding: 7px 15px!important;
+}
+.all-btn-wrap .btn-group-inner {
+    padding: 17px 35px!important;
+    border-radius: 53px!important;
+}
+
+";}
